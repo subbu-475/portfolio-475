@@ -14,7 +14,7 @@ function Contact() {
                     <a href="#"><img src="./icons/linkedin.ico" className="fa-brands fa-linkedin"/></a>
                     <a href="#"><img src="./icons/github.ico" className="fa-brands fa-github"/></a>
                 </div>
-                <a href="./CV/Subramani's Resume_13.06.2023.pdf" download className="btn btn2" id="btn-col">Download CV</a>
+                <a href="./Subramani Resume.pdf" download className="btn btn2" id="btn-col">Download Resume</a>
                 <p className="down-tag1" id="alert">Downloaded successfully!</p>
             </div>
         </div>
